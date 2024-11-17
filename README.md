@@ -500,10 +500,10 @@ int main() {
 }
 ```
 ## OUTPUT:
-Simulating Vigenere Cipher
+
 ![image](https://github.com/user-attachments/assets/304af8aa-d0f4-4672-998c-4a0f71e8c6d1)
 
-
+## Result:
 The program is executed successfully
 
 -----------------------------------------------------------------------
