@@ -66,7 +66,6 @@ int main()
 ```
 
 ## OUTPUT:
-OUTPUT:
 ### Encryption & Decryption
 ![image](https://github.com/user-attachments/assets/84a447ca-937d-4d17-ab3a-3c09a941e699)
 
