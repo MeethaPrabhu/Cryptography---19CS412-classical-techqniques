@@ -595,7 +595,7 @@ printf("\n");
 }
 ```
 ## OUTPUT:
-OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/b926ef52-36e5-4a8c-b5b2-fa0069f5e4ab)
 
 
