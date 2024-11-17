@@ -275,7 +275,8 @@ int main() {
 
 ## OUTPUT:
 Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+![image](https://github.com/user-attachments/assets/3f54d5fb-32df-426e-926a-2c1f72eb0084)
+
 
 ## RESULT:
 The program is executed successfully
