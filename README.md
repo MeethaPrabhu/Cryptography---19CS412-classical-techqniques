@@ -67,12 +67,8 @@ int main()
 
 ## OUTPUT:
 OUTPUT:
-### Encryption
-![Screenshot 2024-10-17 180914](https://github.com/user-attachments/assets/2b3c7f97-cc4e-4867-87d8-9ed73ccdc18d)
-
-### Decryption:
-![Screenshot 2024-10-17 181159](https://github.com/user-attachments/assets/0221492f-348e-4058-b6e5-bbac6c666a40)
-
+### Encryption & Decryption
+![image](https://github.com/user-attachments/assets/84a447ca-937d-4d17-ab3a-3c09a941e699)
 
 
 ## RESULT:
