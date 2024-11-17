@@ -409,7 +409,8 @@ int main() {
 
 ## OUTPUT:
 ### Simulating Hill Cipher
-![image](https://github.com/user-attachments/assets/13ec1be5-b9ce-4b92-9cba-7b2eb6348497)
+![image](https://github.com/user-attachments/assets/5f08f1be-baa6-4f14-93f5-549cb3545d9f)
+
 
 
 
@@ -500,7 +501,8 @@ int main() {
 ```
 ## OUTPUT:
 Simulating Vigenere Cipher
-![image](https://github.com/user-attachments/assets/4011df9c-52d8-4c36-a02d-655201ff8f9b)
+![image](https://github.com/user-attachments/assets/304af8aa-d0f4-4672-998c-4a0f71e8c6d1)
+
 
 The program is executed successfully
 
@@ -594,7 +596,8 @@ printf("\n");
 ```
 ## OUTPUT:
 OUTPUT:
-![image](https://github.com/user-attachments/assets/2e347c9a-300c-4c06-9224-b0380245a6ba)
+![image](https://github.com/user-attachments/assets/b926ef52-36e5-4a8c-b5b2-fa0069f5e4ab)
+
 
 ## RESULT:
 The program is executed successfully
